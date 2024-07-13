@@ -1,0 +1,13 @@
+# Ignore Visual Studio .vs directory
+.vs/
+
+# Ignore React directory (assuming it's named 'react')
+client-app/
+
+bin/
+
+Migrations/
+
+obj/ 
+
+properties/
